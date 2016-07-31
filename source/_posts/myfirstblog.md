@@ -1,5 +1,5 @@
 ---
-title: anchorli
+title: 如何利用hexo建立博客
 date: 2016-06-10
 tags: 杂七杂八
 categories: 杂七杂八
