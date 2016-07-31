@@ -8,8 +8,8 @@ menu:
   Archives: archives
   Tags: tags
   Categories: categories
-  About: about
-  Github: https://github.com/stiekel/hexo-theme-random
+  About: http://anchorli.tk:81
+  Github: https://github.com/Anchorli/VPS_blog
 
 social:
   GitHub: https://github.com/stiekel/hexo-theme-random
